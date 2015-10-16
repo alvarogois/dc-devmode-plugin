@@ -3,7 +3,7 @@ DC devmode plugin (Dave Clements')
 
 Simple WordPress plugin that disables some plugins from being activated in a development environment.
 
-It's totally based on Dave Clement's tutorial on [Do it with WP](https://www.doitwithwp.com/deactivate-certain-plugins-development-servers/).
+It's totally based on Dave Clements' tutorial on [Do it with WP](https://www.doitwithwp.com/deactivate-certain-plugins-development-servers/).
 
 Installation
 ------------
