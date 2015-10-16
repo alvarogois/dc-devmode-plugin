@@ -1,4 +1,4 @@
-DC devmode plugin (Dave Clement's)
+DC devmode plugin (Dave Clements')
 =====================================
 
 Simple WordPress plugin that disables some plugins from being activated in a development environment.
